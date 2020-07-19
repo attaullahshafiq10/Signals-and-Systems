@@ -1,2 +1,2 @@
-# Signals_Sysytems
+# Signals_Systems
 Attaullah Shafiq
